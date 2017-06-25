@@ -1,0 +1,5 @@
+width	height	browser	version	platform	UA	date	time	worker_id	part_id	study	trial	set_size	letters	response	correct
+375	667	Apple Safari	10.0	mac	Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1	02.21.17	10:03:15pm	NO_WORKER_ID	8C5T1F2M7I3S9B0Q	AOSPAN	1	2	FP	FP	2
+375	667	Apple Safari	10.0	mac	Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1	02.21.17	10:03:25pm	NO_WORKER_ID	8C5T1F2M7I3S9B0Q	AOSPAN	2	2	QJ	QJ	2
+375	667	Apple Safari	10.0	mac	Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1	02.21.17	10:03:37pm	NO_WORKER_ID	8C5T1F2M7I3S9B0Q	AOSPAN	3	3	HKT	HKT	3
+375	667	Apple Safari	10.0	mac	Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1	02.21.17	10:03:48pm	NO_WORKER_ID	8C5T1F2M7I3S9B0Q	AOSPAN	4	3	SNR	SNR	3

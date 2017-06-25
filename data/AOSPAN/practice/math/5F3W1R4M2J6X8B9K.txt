@@ -1,0 +1,4 @@
+width	height	browser	version	platform	UA	date	time	worker_id	part_id	study	trial	math_ques	math_ans	given_resp	user_resp	acc	difficulty	RT
+1600	900	Mozilla Firefox	45.0	windows	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0	11.30.16	09:58:44pm	NO_WORKER_ID	5F3W1R4M2J6X8B9K	AOSPAN	1	(1*2)+1	3	3	True	1	1	1.061
+1600	900	Mozilla Firefox	45.0	windows	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0	11.30.16	09:58:48pm	NO_WORKER_ID	5F3W1R4M2J6X8B9K	AOSPAN	2	(7*3)-3	18	18	False	0	2	0.51
+1600	900	Mozilla Firefox	45.0	windows	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0	11.30.16	09:58:51pm	NO_WORKER_ID	5F3W1R4M2J6X8B9K	AOSPAN	3	(4*3)+4	16	16	True	1	2	0.585

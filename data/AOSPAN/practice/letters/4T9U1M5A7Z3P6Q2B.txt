@@ -1,0 +1,2 @@
+width	height	browser	version	platform	UA	date	time	worker_id	part_id	study	trial	set_size	letters	response	correct
+1280	800	Apple Safari	9.1.1	mac	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17	06.23.16	04:27:56am	NO_WORKER_ID	4T9U1M5A7Z3P6Q2B	AOSPAN	1	2	FP	FP	2

@@ -1,0 +1,5 @@
+width	height	browser	version	platform	UA	date	time	worker_id	part_id	study	trial	set_size	letters	response	correct
+3440	1440	Google Chrome	58.0.3029.110	mac	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36	05.27.17	11:48:05pm	NO_WORKER_ID	4V2L9X3E0Q8A6Z1F	AOSPAN	1	2	FP	FP	2
+3440	1440	Google Chrome	58.0.3029.110	mac	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36	05.27.17	11:48:17pm	NO_WORKER_ID	4V2L9X3E0Q8A6Z1F	AOSPAN	2	2	QJ	PJ	1
+3440	1440	Google Chrome	58.0.3029.110	mac	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36	05.27.17	11:48:29pm	NO_WORKER_ID	4V2L9X3E0Q8A6Z1F	AOSPAN	3	3	HKT	HKT	3
+3440	1440	Google Chrome	58.0.3029.110	mac	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36	05.27.17	11:48:41pm	NO_WORKER_ID	4V2L9X3E0Q8A6Z1F	AOSPAN	4	3	SNR	SNR	3

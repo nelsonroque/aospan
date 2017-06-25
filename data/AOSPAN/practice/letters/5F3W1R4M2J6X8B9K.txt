@@ -1,0 +1,5 @@
+width	height	browser	version	platform	UA	date	time	worker_id	part_id	study	trial	set_size	letters	response	correct
+1600	900	Mozilla Firefox	45.0	windows	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0	11.30.16	09:58:18pm	NO_WORKER_ID	5F3W1R4M2J6X8B9K	AOSPAN	1	2	FP	FP	2
+1600	900	Mozilla Firefox	45.0	windows	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0	11.30.16	09:58:24pm	NO_WORKER_ID	5F3W1R4M2J6X8B9K	AOSPAN	2	2	QJ	QJ	2
+1600	900	Mozilla Firefox	45.0	windows	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0	11.30.16	09:58:31pm	NO_WORKER_ID	5F3W1R4M2J6X8B9K	AOSPAN	3	3	HKT		0
+1600	900	Mozilla Firefox	45.0	windows	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0	11.30.16	09:58:37pm	NO_WORKER_ID	5F3W1R4M2J6X8B9K	AOSPAN	4	3	SNR		0

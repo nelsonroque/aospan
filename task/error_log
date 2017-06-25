@@ -1,0 +1,5 @@
+[22-May-2016 17:22:08 UTC] PHP Parse error:  syntax error, unexpected 'final_URL' (T_STRING), expecting ',' or ';' in /home/cognitivetask/public_html/aospan/task/end.php on line 16
+[22-May-2016 17:23:55 UTC] PHP Parse error:  syntax error, unexpected 'final_URL' (T_STRING), expecting ',' or ';' in /home/cognitivetask/public_html/aospan/task/end.php on line 16
+[22-May-2016 17:24:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cognitivetask/public_html/aospan/task/end.php on line 16
+[22-May-2016 17:24:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cognitivetask/public_html/aospan/task/end.php on line 16
+[22-May-2016 17:24:25 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cognitivetask/public_html/aospan/task/end.php on line 16
